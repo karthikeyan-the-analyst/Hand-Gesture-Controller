@@ -5,10 +5,10 @@ Real-Time Hand Gesture Control for Hill Climb Racing using Computer Vision
 🔍 Project Overview
 This project leverages real-time computer vision to control the Hill Climb Racing game using hand gestures instead of traditional input devices. By integrating MediaPipe, OpenCV, and keyboard automation, the system translates gestures like an open hand or a fist into game actions—enabling hands-free gameplay.
 
-🎯 Objective
+# Objective
 To demonstrate the practical application of computer vision by enabling real-time hand gesture recognition and simulating keyboard inputs to control a racing game without a physical controller.
 
-🌟 Highlights
+# Highlights
 ⇨ Real-Time Gesture Detection: Uses a webcam to track hand landmarks with MediaPipe and detect gestures instantly.
 ⇨ Game Control Automation: Maps specific gestures to keyboard controls such as acceleration and braking, enabling natural gameplay.
 ⇨ Hands-Free Interaction: Empowers users to play Hill Climb Racing with intuitive, non-contact controls.
@@ -24,7 +24,7 @@ Two fingers: Reverse (optional logic included)
 
 Thumb only: Flip/Stunt (optional logic included)
 
-✅ Conclusion
+# Conclusion
 This project showcases a fun and interactive application of computer vision and automation. By controlling a popular game through hand gestures, it demonstrates how real-time gesture recognition can be used in practical, engaging ways beyond traditional use cases.
 
 🛠️ Technologies | Tools Used | Domains
