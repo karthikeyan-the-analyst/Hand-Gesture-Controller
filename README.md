@@ -31,6 +31,6 @@ Thumb only: Flip/Stunt (optional logic included)
 # Conclusion
 This project showcases a fun and interactive application of computer vision and automation. By controlling a popular game through hand gestures, it demonstrates how real-time gesture recognition can be used in practical, engaging ways beyond traditional use cases.
 
-🛠️ Technologies | Tools Used | Domains
+# Technologies | Tools Used | Domains
 Python • OpenCV • MediaPipe • PyAutoGUI • keyboard (Python module)
 Computer Vision • Automation • Real-Time Gesture Control • Game Integration
