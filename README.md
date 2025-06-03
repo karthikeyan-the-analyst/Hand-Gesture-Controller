@@ -10,9 +10,13 @@ To demonstrate the practical application of computer vision by enabling real-tim
 
 # Highlights
 ⇨ Real-Time Gesture Detection: Uses a webcam to track hand landmarks with MediaPipe and detect gestures instantly.
+
 ⇨ Game Control Automation: Maps specific gestures to keyboard controls such as acceleration and braking, enabling natural gameplay.
+
 ⇨ Hands-Free Interaction: Empowers users to play Hill Climb Racing with intuitive, non-contact controls.
+
 ⇨ Extensible Features: Easily customizable to add more gestures like reverse or stunt with additional logic.
+
 ⇨ Optimized Frame Processing: Efficient use of frame resizing and detection logic for better responsiveness.
 
 📈 How It Works
